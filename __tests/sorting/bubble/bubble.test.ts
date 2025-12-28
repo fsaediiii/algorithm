@@ -1,4 +1,4 @@
-import BubbleSort from "./bubble";
+import BubbleSort from "../../../sorting/bubble/bubble";
 
 describe("BubbleSort", () => {
   let sorter: BubbleSort;

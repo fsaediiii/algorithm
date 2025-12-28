@@ -1,4 +1,4 @@
-import InsertionSort from "./insertion";
+import InsertionSort from "../../../sorting/insertion/insertion";
 
 describe("InsertionSort", () => {
   let sorter: InsertionSort;

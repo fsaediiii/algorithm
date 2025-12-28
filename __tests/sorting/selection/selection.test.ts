@@ -1,4 +1,4 @@
-import { SelectionSort } from "./selection";
+import { SelectionSort } from "../../../sorting/selection/selection";
 
 describe("SelectionSort", () => {
   let sorter: SelectionSort;
